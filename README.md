@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
-<h3 align="center">A passionate Fullstack developer and Devops Engineer from India</h3>
+<h3 align="center">Enthusiastic Full-Stack Developer and DevOps Engineer with a passion for building and deploying innovative web applications.  I bring expertise in both front-end and back-end development, along with DevOps practices to streamline the software development lifecycle. Originally from India, I enjoy collaborating with cross-functional teams to deliver high-quality, scalable solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdevsharma&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdevsharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikdevsharma" alt="kartikdevsharma" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and Machine learning**
+- 🌱 I’m currently learning **DevOps and exploring the world of Machine Learning!**
 
-- 💬 Ask me about **MERN, DSA and Machine learning**
+- 💬 Ask me about **MERN, DSA AND DevOps**
 
 - 📫 How to reach me **kartikdevsharma99@gmail.com**
 
