@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikdevsharma" alt="kartikdevsharma" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and exploring the world of Machine Learning!**
+- 🌱 I’m currently learning **DevOps(Advance) and exploring the world of Machine Learning!**
 
 - 💬 Ask me about **MERN, DSA AND DevOps**
 
