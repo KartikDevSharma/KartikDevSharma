@@ -23,7 +23,7 @@
     </a>
     <span style="margin-right: 10px;">Code 360 Profile:</span>
     <a href="https://www.naukri.com/code360/profile/KartikDev" target="_blank" style="display: inline-flex; align-items: center;">
-        <img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="kartikdevsharmaa" height="70" width="60" />
+        <img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="kartikdevsharmaa" height="90" width="80" />
     </a>
     <span style="margin-right: 10px;">HackerRank Profile:</span>
     <a href="https://www.hackerrank.com/@kartik23sharma99" target="_blank" style="margin-right: 20px; display: inline-flex; align-items: center;">
