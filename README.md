@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/kartik-sharma-7880691b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-sharma-7880691b0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kartik23sharma99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kartik23sharma99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kartikdevsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikdevsharmaa" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/KartikDev" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="kartikdevsharmaa" height="70" width="60" /></a>
 </p>
 
 
