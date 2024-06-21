@@ -116,7 +116,7 @@
     <td align="center" style="padding: 10px; border: 1px solid #ccc;">
       <div>
         <strong>HackerRank</strong><br>
-        <a href="https://www.hackerrank.com/@kartik23sharma99" target="_blank">
+        <a href="https://www.hackerrank.com/kartik23sharma99" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kartik23sharma99" height="30" width="40" />
         </a>
       </div>
