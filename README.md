@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
+<img align="right" width="30%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/Confused_Programmer.gif">
+<h1 align="left">Hi 👋, I'm Kartik</h1>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I am a Full-Stack Developer and DevOps Engineer with a passion for building and deploying innovative web applications.</div>  
+### <div align="left">I am a Full-Stack Developer and DevOps Engineer with a passion for building and deploying innovative web applications.</div>  
   
 
 - 🔭 I’m currently working on a Saas Project  
