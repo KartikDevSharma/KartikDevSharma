@@ -1,6 +1,7 @@
 `
+## Hi 👋, I'm Kartik   
 <img align="right"  width="30%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/Confused_Programmer.gif">
-### Hi 👋, I'm Kartik   
+
 
 ### <div align="left">I am a Full-Stack Developer and DevOps Engineer with a passion for building and deploying innovative web applications.</div>  
   
@@ -20,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+# My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
