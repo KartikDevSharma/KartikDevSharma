@@ -150,25 +150,47 @@
 </table>
 
 
+
+
+
 <hr>
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kartikdevsharma&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br/>  
-
-
-
-
+<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+        <a href="https://github.com/kartikdevsharma">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kartikdevsharma&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kartikdevsharma&show_icons=true&count_private=true&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikdevsharma&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%">
+        <a href="https://github.com/kartikdevsharma">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kartikdevsharma&hide_border=true&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kartikdevsharma&hide_border=true" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikdevsharma&hide_border=true&theme=radical" alt="Streak Stats" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
+<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
+<table width="100%" align="center">
+  <tr>
+    <td width="100%" align="center">
+        <a href="https://github.com/kartikdevsharma">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikDevSharma&layout=compact&theme=radical&langs_count=10&hide_border=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikDevSharma&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikDevSharma&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kartikdevsharma&&style=flat-square" align="center" />
-</div>  
-
-
-  
-
-----
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikDevSharma&layout=compact&theme=transparent" alt=KartikDevSharma />
+</div>
