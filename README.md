@@ -21,6 +21,7 @@
 
 
 # My Skill Set  
+<img align="center"  width="100%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/12333.png">
 <table><tr><td valign="top" width="33%">
 
 
@@ -150,6 +151,8 @@
 
 <hr>
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
+
+
 <table width="100%" align="center">
   <tr>
     <td width="50%">
@@ -173,6 +176,7 @@
   </tr>
 </table>
 <h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
+<img align="left"  width="5%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/12.gif">
 <img align="right"  width="40%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/123.gif">
 <table width="100%" align="center">
   <tr>
@@ -186,7 +190,10 @@
         </a>
     </td>
   </tr>
+  
+  
 </table>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kartikdevsharma&&style=flat-square" align="center" />
 </div>
