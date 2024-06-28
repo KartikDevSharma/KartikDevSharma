@@ -86,80 +86,71 @@
 
 ### Connect with Me
 ----
-
 <table>
   <tr>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>LinkedIn</strong><br>
-        <a href="https://linkedin.com/in/kartik-sharma-7880691b0" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-sharma-7880691b0" height="30" width="40" />
-        </a>
-      </div>
-    </td>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>LeetCode</strong><br>
-        <a href="https://www.leetcode.com/kartikdevsharmaa" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikdevsharmaa" height="30" width="40" />
-        </a>
-      </div>
-    </td>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>Code 360</strong><br>
-        <a href="https://www.naukri.com/code360/profile/KartikDev" target="_blank">
-          <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="kartikdevsharmaa" height="30" width="80" />
-        </a>
-      </div>
-    </td>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>HackerRank</strong><br>
-        <a href="https://www.hackerrank.com/kartik23sharma99" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kartik23sharma99" height="30" width="40" />
-        </a>
-      </div>
-    </td>
+    <th></th>
+    <th>Social Media</th>
+    <th>Username</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>Twitter</strong><br>
-        <a href="https://twitter.com/KartikDev_" target="_blank">
-          <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="KartikDev_" height="30" width="40" />
-        </a>
-      </div>
-    </td>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>Kaggle</strong><br>
-        <a href="https://kaggle.com/kartikdevsharma" target="_blank">
-          <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="kartikdevsharma" height="30" width="40" />
-        </a>
-      </div>
-    </td>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>Dev.to</strong><br>
-        <a href="https://dev.to/KartikDevSharma" target="_blank">
-          <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="KartikDevSharma" height="30" width="40" />
-        </a>
-      </div>
-    </td>
-    <td align="center" style="padding: 10px; border: 1px solid #ccc;">
-      <div>
-        <strong>CodeChef</strong><br>
-        <a href="https://www.codechef.com/users/kartikdevsharm" target="_blank">
-          <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="kartikdevsharm" height="30" width="40" />
-        </a>
-      </div>
-    </td>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /></td>
+    <td>Email</td>
+    <td><code>kartikdevsharma99@gmail.com</code></td>
+    <td><a href="mailto:kartikdevsharma99@gmail.com" target="_blank">Email</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" /></td>
+    <td>LinkedIn</td>
+    <td><code>kartik-sharma-7880691b0</code></td>
+    <td><a href="https://linkedin.com/in/kartik-sharma-7880691b0" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" /></td>
+    <td>LeetCode</td>
+    <td><code>kartikdevsharmaa</code></td>
+    <td><a href="https://www.leetcode.com/kartikdevsharmaa" target="_blank">LeetCode</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" width="20" /></td>
+    <td>Code 360</td>
+    <td><code>KartikDev</code></td>
+    <td><a href="https://www.naukri.com/code360/profile/KartikDev" target="_blank">Code 360</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="20" /></td>
+    <td>HackerRank</td>
+    <td><code>kartik23sharma99</code></td>
+    <td><a href="https://www.hackerrank.com/kartik23sharma99" target="_blank">HackerRank</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" width="20" /></td>
+    <td>Twitter</td>
+    <td><code>KartikDev_</code></td>
+    <td><a href="https://twitter.com/KartikDev_" target="_blank">Twitter</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" width="20" /></td>
+    <td>Kaggle</td>
+    <td><code>kartikdevsharma</code></td>
+    <td><a href="https://kaggle.com/kartikdevsharma" target="_blank">Kaggle</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" width="20" /></td>
+    <td>Dev.to</td>
+    <td><code>KartikDevSharma</code></td>
+    <td><a href="https://dev.to/KartikDevSharma" target="_blank">Dev.to</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" width="20" /></td>
+    <td>CodeChef</td>
+    <td><code>kartikdevsharm</code></td>
+    <td><a href="https://www.codechef.com/users/kartikdevsharm" target="_blank">CodeChef</a></td>
   </tr>
 </table>
 
 
-<br/>  
+<hr>
 
 
 ## Github Stats  
