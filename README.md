@@ -80,10 +80,11 @@
 </td></tr></table>  
 
 <br/>  
-
+<img align="right"  width="40%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/12345.gif">
 
 ### Connect with Me
 ----
+
 <table>
   <tr>
     <th></th>
@@ -176,6 +177,7 @@
   </tr>
 </table>
 <h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
+<img align="right"  width="40%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/123.gif">
 <table width="100%" align="center">
   <tr>
     <td width="100%" align="center">
