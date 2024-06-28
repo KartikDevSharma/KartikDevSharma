@@ -26,7 +26,7 @@
 
 
 
-### Frontend  
+## Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -41,7 +41,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend  
+## Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -57,7 +57,7 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+## DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/Techstack/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
