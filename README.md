@@ -1,5 +1,4 @@
-`
-## Hi 👋, I'm Kartik   
+<h1> Hi 👋, I'm Kartik  </h1> 
 <img align="right"  width="30%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/Confused_Programmer.gif">
 
 
