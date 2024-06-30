@@ -137,12 +137,6 @@
     <td><code>KartikDevSharma</code></td>
     <td><a href="https://dev.to/KartikDevSharma" target="_blank">Dev.to</a></td>
   </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" width="20" /></td>
-    <td>CodeChef</td>
-    <td><code>kartikdevsharm</code></td>
-    <td><a href="https://www.codechef.com/users/kartikdevsharm" target="_blank">CodeChef</a></td>
-  </tr>
 </table>
 
 
