@@ -116,8 +116,8 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="20" /></td>
     <td>HackerRank</td>
-    <td><code>kartik23sharma99</code></td>
-    <td><a href="https://www.hackerrank.com/kartik23sharma99" target="_blank">HackerRank</a></td>
+    <td><code>KartikDevSharma</code></td>
+    <td><a href="https://www.hackerrank.com/KartikDevSharma" target="_blank">HackerRank</a></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" width="20" /></td>
