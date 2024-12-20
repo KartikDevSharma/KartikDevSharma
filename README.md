@@ -223,6 +223,8 @@
 
 
 <hr>
+
+
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
 <table width="100%" align="center">
@@ -234,11 +236,15 @@
     </td>
     <td width="50%">
       <a href="https://github.com/kartikdevsharma">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikdevsharma&theme=radical" alt="GitHub Streak" />
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=kartikdevsharma&theme=radical&row=2&column=3" alt="GitHub Trophies" />
       </a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikdevsharma&theme=radical" alt="GitHub Profile Summary" />
+</div>
 
 ---
 
