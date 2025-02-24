@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Kartik+Sharma!;Welcome+to+my+GitHub!&center=true&size=30"> </p> <p align="center"> <img src="https://github.com/KartikDevSharma/KartikDevSharma/raw/main/Files/banner.gif" alt="Banner Image"> </p> 
 <img align="right"  width="30%" src="https://github.com/KartikDevSharma/KartikDevSharma/blob/main/Files/Confused_Programmer.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;DevOps+Engineer;Open-Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Machine-Learning+Engineer;DevOps+Engineer;Open-Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 
 ### <div align="left">I am a Full-Stack Developer and DevOps Engineer with a passion for building and deploying innovative web applications.</div>  
